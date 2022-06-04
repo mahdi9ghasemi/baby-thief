@@ -122,10 +122,10 @@ gdjs.THEENDCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsed
 }if (gdjs.THEENDCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("THE_END_TEXT"), gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1);
 {for(var i = 0, len = gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1.length ;i < len;++i) {
-    gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1[i].setString("Characters");
+    gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1[i].setTextAlignment("center");
 }
 }{for(var i = 0, len = gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1.length ;i < len;++i) {
-    gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1[i].setTextAlignment("center");
+    gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1[i].setString("Characters");
 }
 }
 { //Subevents
@@ -157,11 +157,7 @@ gdjs.THEENDCode.condition0IsTrue_0.val = false;
 {
 gdjs.THEENDCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 }if (gdjs.THEENDCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("THE_END_TEXT"), gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1);
-{for(var i = 0, len = gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1.length ;i < len;++i) {
-    gdjs.THEENDCode.GDTHE_95END_95TEXTObjects1[i].setTextAlignment("center");
 }
-}}
 
 }
 

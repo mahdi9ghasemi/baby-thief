@@ -11,7 +11,7 @@ gdjs.evtsExt__Gamepads__onScenePostEvents.conditionTrue_0 = {val:false};
 gdjs.evtsExt__Gamepads__onScenePostEvents.condition0IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Gamepads__onScenePostEvents.userFunc0x320ab70 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Gamepads__onScenePostEvents.userFunc0x36d7c50 = function(runtimeScene, eventsFunctionContext) {
 "use strict";
 //Each time a player press a button i save the last button pressed for the next frame
 /** @type {Gamepad[]} */
@@ -56,7 +56,7 @@ gdjs.evtsExt__Gamepads__onScenePostEvents.eventsList0 = function(runtimeScene, e
 {
 
 
-gdjs.evtsExt__Gamepads__onScenePostEvents.userFunc0x320ab70(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__Gamepads__onScenePostEvents.userFunc0x36d7c50(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

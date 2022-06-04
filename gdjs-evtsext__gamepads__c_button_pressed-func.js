@@ -11,7 +11,7 @@ gdjs.evtsExt__Gamepads__C_Button_pressed.conditionTrue_0 = {val:false};
 gdjs.evtsExt__Gamepads__C_Button_pressed.condition0IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Gamepads__C_Button_pressed.userFunc0x31515e8 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Gamepads__C_Button_pressed.userFunc0x36d7c50 = function(runtimeScene, eventsFunctionContext) {
 "use strict";
 /** @type {Gamepad[]} */
 const gamepads = navigator.getGamepads ? navigator.getGamepads() : (navigator.webkitGetGamepads ? navigator.webkitGetGamepads() : []);
@@ -141,7 +141,7 @@ gdjs.evtsExt__Gamepads__C_Button_pressed.eventsList0 = function(runtimeScene, ev
 {
 
 
-gdjs.evtsExt__Gamepads__C_Button_pressed.userFunc0x31515e8(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__Gamepads__C_Button_pressed.userFunc0x36d7c50(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

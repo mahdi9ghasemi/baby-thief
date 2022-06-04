@@ -145,7 +145,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58381484);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58506476);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -256,7 +256,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58388412);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58513404);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -290,7 +290,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58390652);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58515644);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -326,7 +326,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58392780);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58517772);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -390,7 +390,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58397724);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58522716);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -455,7 +455,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58405116);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58530108);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -474,7 +474,7 @@ gdjs.Level_324_454Code.eventsList14(runtimeScene);} //End of subevents
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58402860);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58527852);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -542,7 +542,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58408908);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58533900);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -561,7 +561,7 @@ gdjs.Level_324_454Code.eventsList18(runtimeScene);} //End of subevents
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58407036);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58532028);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -598,7 +598,7 @@ gdjs.Level_324_454Code.eventsList21 = function(runtimeScene) {
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58400956);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58525948);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -708,7 +708,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58413124);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58538116);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -795,7 +795,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58416588);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58541580);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
@@ -1209,7 +1209,7 @@ gdjs.Level_324_454Code.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariab
 gdjs.Level_324_454Code.condition0IsTrue_0.val = false;
 {
 {gdjs.Level_324_454Code.conditionTrue_1 = gdjs.Level_324_454Code.condition0IsTrue_0;
-gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58436324);
+gdjs.Level_324_454Code.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(58561316);
 }
 }if (gdjs.Level_324_454Code.condition0IsTrue_0.val) {
 
