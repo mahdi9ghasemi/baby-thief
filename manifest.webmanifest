@@ -2,6 +2,7 @@
   "name": "Baby Thief",
   "short_name": "Baby Thief",
   "id": "com.example.babythief",
+  "version": "1.8.0",
   "description": "",
   "orientation": "landscape",
   "start_url": "./index.html",
