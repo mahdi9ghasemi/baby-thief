@@ -203,7 +203,7 @@ gdjs.OptionCode.condition0IsTrue_0.val = gdjs.evtTools.variable.getVariableNumbe
 gdjs.OptionCode.condition0IsTrue_0.val = false;
 {
 {gdjs.OptionCode.conditionTrue_1 = gdjs.OptionCode.condition0IsTrue_0;
-gdjs.OptionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(56201836);
+gdjs.OptionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(53822596);
 }
 }if (gdjs.OptionCode.condition0IsTrue_0.val) {
 
@@ -222,7 +222,7 @@ gdjs.OptionCode.eventsList7(runtimeScene);} //End of subevents
 gdjs.OptionCode.condition0IsTrue_0.val = false;
 {
 {gdjs.OptionCode.conditionTrue_1 = gdjs.OptionCode.condition0IsTrue_0;
-gdjs.OptionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(56199116);
+gdjs.OptionCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(53820260);
 }
 }if (gdjs.OptionCode.condition0IsTrue_0.val) {
 
