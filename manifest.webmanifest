@@ -1,7 +1,7 @@
 {
-  "name": "Baby Thief",
-  "short_name": "Baby Thief",
-  "id": "com.example.babythief",
+  "name": "The Child Robbed",
+  "short_name": "The Child Robbed",
+  "id": "com.example.tcr",
   "version": "1.8.0",
   "description": "",
   "orientation": "landscape",
