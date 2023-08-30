@@ -2,7 +2,7 @@
   "name": "The Child Robbed",
   "short_name": "The Child Robbed",
   "id": "com.example.tcr",
-  "version": "1.8.0",
+  "version": "0.1",
   "description": "",
   "orientation": "landscape",
   "start_url": "./index.html",
