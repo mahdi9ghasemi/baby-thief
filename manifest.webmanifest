@@ -1,7 +1,7 @@
 {
-  "name": "The Child Robbed",
-  "short_name": "The Child Robbed",
-  "id": "com.example.tcr",
+  "name": "Child Robbed",
+  "short_name": "Child Robbed",
+  "id": "com.childrobbed",
   "version": "0.1",
   "description": "",
   "orientation": "landscape",
